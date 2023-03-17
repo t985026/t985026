@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ![t985026's GitHub stats](https://github-readme-stats.vercel.app/api?username=t985026&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t985026&repo=Kubernetes)](https://github.com/t985026/Kubernetes)
@@ -11,6 +10,7 @@
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
+<!--
 
 **t985026/t985026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
