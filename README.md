@@ -7,7 +7,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=t985026)](https://github.com/t985026/)
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/t985026/t985026/blob/master/devcard.svg" width="400" alt="Justin Dev Card"/></a>
+<a href="https://app.daily.dev/justin5"><img src="https://github.com/t985026/t985026/blob/master/devcard.svg" width="400" alt="Justin Dev Card"/></a>
 <!--
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t985026&repo=Kubernetes)](https://github.com/t985026/Kubernetes)
