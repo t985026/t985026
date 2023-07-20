@@ -1,6 +1,6 @@
 ### Hi, I'm Justin, and I'm a SRE Engineer with a focus on container and Kubernetes infrastructure.
 
-![t985026's GitHub stats](https://github-readme-stats.vercel.app/api?username=t985026&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=t985026)](https://github.com/t985026/)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=t985026)](https://github.com/t985026/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t985026&langs_count=10&layout=compact)](https://github.com/t985026/) 
 
