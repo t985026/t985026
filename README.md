@@ -5,12 +5,20 @@
 </div>
 
 <div align="center">
+  <!-- GitHub Readme Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=t985026&show_icons=true&theme=radical&hide_border=true" alt="Justin's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t985026&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  </a>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=t985026&theme=radical&hide_border=true)](https://github.com/t985026/)
   <br/>
-  [![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=t985026&show_icons=true&theme=radical&hide_border=true)](https://github.com/t985026/)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t985026&langs_count=8&layout=compact&theme=radical&hide_border=true)](https://github.com/t985026/)
   
+  <!-- GitHub Trends (avgupta456) -->
+  <a href="https://github.com/avgupta456/github-trends">
+    <img src="https://api.githubtrends.io/user/svg/t985026/numeric?theme=radical" alt="GitHub Trends" />
+  </a>
 </div>
 
 <div align="center">
