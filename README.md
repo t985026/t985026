@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://t985026.github.io/">
+  <a href="https://www.starnight.one/">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Justin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SRE%20Engineer%20%7C%20Kubernetes%20%7C%20Infrastructure&descAlignY=51&descAlign=62" alt="Justin's Header" width="100%"/>
   </a>
 </div>
@@ -7,6 +7,8 @@
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=t985026&theme=radical&hide_border=true)](https://github.com/t985026/)
+  <br/>
+  [![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=t985026&show_icons=true&theme=radical&hide_border=true)](https://github.com/t985026/)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t985026&langs_count=8&layout=compact&theme=radical&hide_border=true)](https://github.com/t985026/)
   
 </div>
@@ -53,7 +55,7 @@
 
 <div align="center">
   <br/>
-  <a href="https://t985026.github.io/">
+  <a href="https://www.starnight.one/">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Site-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </div>
