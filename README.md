@@ -5,11 +5,16 @@
 </div>
 
 <div align="center">
-  <!-- GitHub Readme Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=t985026&show_icons=true&theme=radical&hide_border=true" alt="Justin's GitHub Stats" />
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=t985026&theme=dark&exclude_days=Wed" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <br/>
+  <!-- GitHub Readme Stats -->
+  <a href="https://github.com/t985026/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=t985026" alt="t985026 GitHub stats" />
+  </a>
+  <a href="https://github.com/t985026/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t985026&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
   </a>
   
