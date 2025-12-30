@@ -21,10 +21,8 @@
 
 <div align="center">
   <a href="https://app.daily.dev/justin5">
-    <img src="https://api.daily.dev/devcards/v2/XJ0y3...png" width="400" alt="Justin Dev Card" style="display:none;"/> <!-- Replaced with local reference if needed, but keeping simple for now -->
+    <img src="devcard.svg" width="400" alt="Justin Dev Card"/>
   </a>
-  <!-- Using the local SVG via raw git hack or just standard image linking if committed -->
-  <img src="https://github.com/t985026/t985026/blob/main/devcard.svg" width="400" alt="Justin Dev Card"/>
 </div>
 
 <hr/>
